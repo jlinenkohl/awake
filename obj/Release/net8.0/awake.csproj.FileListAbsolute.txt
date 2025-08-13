@@ -1,0 +1,14 @@
+Q:\projects\awake\bin\Release\net8.0\awake.exe
+Q:\projects\awake\bin\Release\net8.0\awake.deps.json
+Q:\projects\awake\bin\Release\net8.0\awake.runtimeconfig.json
+Q:\projects\awake\bin\Release\net8.0\awake.dll
+Q:\projects\awake\bin\Release\net8.0\awake.pdb
+Q:\projects\awake\obj\Release\net8.0\awake.GeneratedMSBuildEditorConfig.editorconfig
+Q:\projects\awake\obj\Release\net8.0\awake.AssemblyInfoInputs.cache
+Q:\projects\awake\obj\Release\net8.0\awake.AssemblyInfo.cs
+Q:\projects\awake\obj\Release\net8.0\awake.csproj.CoreCompileInputs.cache
+Q:\projects\awake\obj\Release\net8.0\awake.dll
+Q:\projects\awake\obj\Release\net8.0\refint\awake.dll
+Q:\projects\awake\obj\Release\net8.0\awake.pdb
+Q:\projects\awake\obj\Release\net8.0\awake.genruntimeconfig.cache
+Q:\projects\awake\obj\Release\net8.0\ref\awake.dll
